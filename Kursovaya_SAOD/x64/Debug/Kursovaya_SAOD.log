@@ -1,0 +1,4 @@
+﻿  Kursovaya_SAOD.cpp
+C:\Users\Roads\source\repos\Kursovaya_SAOD\Kursovaya_SAOD\Kursovaya_SAOD.cpp(843,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Roads\source\repos\Kursovaya_SAOD\Kursovaya_SAOD\Kursovaya_SAOD.cpp(844,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Kursovaya_SAOD.vcxproj -> C:\Users\Roads\source\repos\Kursovaya_SAOD\x64\Debug\Kursovaya_SAOD.exe
